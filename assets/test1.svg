@@ -10,9 +10,6 @@
      id="defs1" />
   <path
      id="rect1"
-     fill="#0000ff"
-     fill-rule="evenodd"
-     stroke-width="1.5"
-     stroke-linecap="round"
+     style="fill:#0000ff;fill-rule:evenodd;stroke-width:1.5;stroke-linecap:round"
      d="M 0,0 H 135.46667 V 135.46666 H 0 Z" />
 </svg>
